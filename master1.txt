@@ -1,0 +1,2 @@
+this is master1.txt file in first demo dictionary.
+this is my second file  cteated by touch command in git bash.
